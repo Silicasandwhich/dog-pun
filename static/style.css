@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color:white;
+    background-image: url(dog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
